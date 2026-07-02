@@ -1,0 +1,6 @@
+{
+  "name": "Myanmar Affiliate Network Architecture",
+  "description": "Enterprise ClickBank-style automated digital marketplace, traffic tracking engine, and split-commission payment blueprint for Myanmar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
